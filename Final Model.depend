@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1670113848 source:c:\users\manu\desktop\fq\programacion\ejercicios c\final model\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
+1670114047 c:\users\manu\desktop\fq\programacion\ejercicios c\final model\materia.h
+
+1670114198 source:c:\users\manu\desktop\fq\programacion\ejercicios c\final model\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"materia.h"
+
+1670128169 c:\users\manu\desktop\fq\programacion\ejercicios c\final model\carrera.h
+
+1670114198 source:c:\users\manu\desktop\fq\programacion\ejercicios c\final model\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
